@@ -1,5 +1,5 @@
 # E.S.S.
-
+[E.S.S.logo](/images/logo/ess%20logo.jpg)
  This is a Website for Epiphanie Synergy Services (E.S.S.)
 
 
