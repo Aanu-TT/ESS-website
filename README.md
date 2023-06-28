@@ -10,6 +10,9 @@ Epiphanie Synergy Services (E.S.S.) is a construction / cleaning service. They s
 This website will be showcasing works done by the establishment on both the construction and cleaning side
 
 
+
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
